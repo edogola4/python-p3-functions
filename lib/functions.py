@@ -16,3 +16,4 @@ def halve(number):
     if not isinstance(number, (int, float)):
         return None
     return number / 2
+
